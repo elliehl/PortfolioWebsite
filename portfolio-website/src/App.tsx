@@ -1,3 +1,4 @@
+import './Styles/App.css'
 import React from 'react'
 
 function App() {
