@@ -1,9 +1,10 @@
 import './Styles/App.css'
 import React from 'react'
+import SocialLinks from './SocialLinks';
 
 function App() {
   return <div className="App">
-    <h1>Portfolio</h1>
+    <SocialLinks />
   </div>;
 }
 
